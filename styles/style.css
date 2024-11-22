@@ -213,6 +213,7 @@ span {
   font-weight: 700;
   font-size: 30px;
   line-height: 100%;
+  text-transform: uppercase;
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
@@ -229,7 +230,6 @@ span {
   height: 103px;
   object-fit: cover;
   object-position: center;
-
 }
 
 .more-button {
@@ -249,7 +249,7 @@ span {
   outline-offset: 2px;
 }
 
-.search-form__checkbox:checked+.search-form__pseudo-checkbox::after {
+.search-form__checkbox:checked + .search-form__pseudo-checkbox::after {
   content: "";
   width: 15px;
   height: 15px;
@@ -295,4 +295,4 @@ span {
 
 .content__card-link:focus-visible {
   outline: 1px solid #fff;
-} 
+}
