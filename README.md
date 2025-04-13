@@ -51,4 +51,4 @@ posmotri_v_okno/
 2. Откройте `index.html` в вашем браузере
 
 ## 👥 Автор
-[StepashkaXD](https://github.com/StepashkaXD)
+- **StepashkaXD** - [GitHub](https://github.com/StepashkaXD)
